@@ -1,0 +1,16 @@
+@import 'variables.scss';
+
+/* Main fonts*/
+$mainFont:Arial;
+$heading-font:Tahoma;
+$font-size:16px;
+$font-color:#333333;
+
+/* Mian colors*/
+$main-color:#1c1b3a;
+$secondry-color:#000000;
+$main-color-tinted:mix(white,$secondry-color,10%);
+/*Misc*/
+$template-width:80%;
+$showcase-height:400px;
+$icon-size:60px;
